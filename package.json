@@ -1,7 +1,7 @@
 {
-  "name": "console-app",
-  "version": "1.0.0",
-  "description": "",
+  "name": "console-start-app-training-chili",
+  "version": "1.0.1",
+  "description": "Console startup application for training new CHILI employees",
   "main": "./dist/index.js",
   "scripts": {
     "build": "tsc"
